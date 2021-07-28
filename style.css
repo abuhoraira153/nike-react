@@ -1,0 +1,32 @@
+.header-bg{
+    background-color: #FFF9F4;
+}
+.logo-img{
+    width:200px;
+}
+.shoe-size{
+    width: 26rem;
+}
+.heading-size{
+    font-size: 4.5rem;
+}
+.nike-style{
+    color: #FA804C;
+}
+.button-style{
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+}
+.card-width{
+    width: 350px;
+}
+.card-background{
+    background-color:  #F1F1F1;
+}
+.price{
+    color: #FA804C;
+    font-size: 2rem;
+}
+.card-image{
+    height: 300px;
+}
